@@ -9,7 +9,7 @@ Autor: David Gonzalez Guerrero
 Fecha: 19/12/2024
 
 
-![header tech](https://github.com/Davidgg93/PEC3_Manovich_Reloaded/blob/main/cabecera.jpg?raw=true)
+![header tech](https://github.com/Davidgg93/PEC3_Manovich_Reloaded/blob/main/header.jpg?raw=true)
 
 
 ## Planteamiento
