@@ -9,7 +9,7 @@ Autor: David Gonzalez Guerrero
 Fecha: 19/12/2024
 
 
-![header tech](https://drive.google.com/file/d/1rCGFs4yakD78Hj6kRj8wzrEYRjkjRpug/view?usp=sharing)
+![header tech](https://github.com/Davidgg93/PEC3_Manovich_Reloaded/blob/main/cabecera.jpg?raw=true)
 
 
 ----------
