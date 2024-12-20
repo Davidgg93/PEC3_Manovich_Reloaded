@@ -12,7 +12,7 @@ Fecha: 19/12/2024
 ![header tech](https://github.com/Davidgg93/PEC3_Manovich_Reloaded/blob/main/cabecera.jpg?raw=true)
 
 
-## Re-descubriendo la hibridación: Introducción
+## Re-descubriendo la hibridación: Introducción :mag:
 
 
 Según Lev Manovich, la hibridación es el resultado de la convergencia y la mezcla de diferentes formas de medios, tecnología y lenguajes en un entorno digital.
@@ -31,7 +31,7 @@ A continuación se plantean dos casos de hibridación de medios, el traductor de
 
 ----------
 
-## Caso 1: Traductor IOS
+## Caso 1: Traductor IOS :iphone:
 
 La app de Traducira de IOS nos ofrece una gran variedad de opciones a la hora de traducir. Como cualquier otro traductor ya existente, este nos permite realizar una traducción tradicional escribiendo un texto desde nuestra propia mano y automaticamente será generada una traducción al idioma deseado.
 
@@ -49,7 +49,7 @@ Como se peude analizar, esta aplicación presenta una hibridación en toda regla
 
 ----------
 
-## Caso 2: Geoguessr
+## Caso 2: Geoguessr :round_pushpin:
 
 GeoGuessr es un juego de geografía en el que apareces en algún punto del planeta en vista *street view* con la única opción de mover la vista en 360º y tu objetivo es buscar pistas y adivinar dónde te encuentras. Puedes competir contra otros usuarios en rondas alternas creando una competición en la cual vas acumulando puntos en criterio a la cercanía al lugar correcto que te establece el juego. (https://www.geoguessr.com/es)
 
@@ -61,7 +61,7 @@ Como es de esperar, la hibridación en los videojuegos es mas que evidente aunqu
 
 ----------
 
-## Conclusión
+## Conclusión :chart_with_upwards_trend:
 
 Es más que evidente que el tiempo es el padre de la evolución y el nacer de nuevos medios. Desde la aparición del metamedio ordenador de Alan Kay era evidente el nacimiento de nuevos medios y estos tarde o temprano se convertirían en nuevos elementos a consecuencia de la mezcla o hibridación de ellos.
 En los ejemplos anteriores hemos podido ver esta evolución de medios y el resultado de la hibridación.
@@ -70,7 +70,7 @@ En los ejemplos anteriores hemos podido ver esta evolución de medios y el resul
 
 ----------
 
-### Referencias y Bibliografía
+### Referencias y Bibliografía :books:
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Web Geoguessr. **https://www.geoguessr.com/es**
