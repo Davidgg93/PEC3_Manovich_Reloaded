@@ -15,7 +15,11 @@ Fecha: 19/12/2024
 ## Re-descubriendo la hibridación: Introducción
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Según Lev Manovich, la hibridación es el resultado de la convergencia y la mezcla de diferentes formas de medios, tecnología y lenguajes en un entorno digital.
+
+Para aclarar esta descripción que Manovich nos proporciona en su libro el software toma el control, Ferran Adell nos deja esta descripción:
+
+<cite>La hibridación es un proceso de remediación -de fusión de los medios- que va más allá que la multimedia. En la multimedia diferentes tipos de medios (texto, audio, vídeo, …) conviven de forma contigua, y se sitúan -normalmente- en un plano bidimensional: la típica página web con texto, una música de fondo y algunas imágenes, … Un esquema que aún hoy es habitual en la construcción de documentos digitales, y que sigue vigente en muchos de los dispositivos, aplicaciones y entornos actuales.</cite>
 
 ----------
 
