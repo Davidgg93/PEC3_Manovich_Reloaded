@@ -53,7 +53,7 @@ GeoGuessr es un juego de geografía en el que apareces en algún punto del plane
 
 A la hora de jugar, inicialmente te aparece en pantalla un lugar aleatorio del mundo en *Street view* y en un lateral el mapa del mundo en 2D de Google, cuando tengas uan idea de dodne te encuentras simplemente navegas sobre el mapa del lateral de la misma forma que lo haces cuando utilizas el *Google Maps* (ya que te encuentras en el) y seleccionas el lugar donde crees que te encuentras, es aquí dodne el juego te dará una puntuación según la proximidad al lugar de acierto.
 
-<img src="">
+<img src="https://github.com/Davidgg93/PEC3_Manovich_Reloaded/blob/main/Geoguessr.jpg?raw=true">
 
 Como es de esperar, la hibridación en los videojuegos es mas que evidente aunque Geoguessr es un caso peculiar donde encontramos una combinación de elementos de gamificación con imagénes panóramicas proporcionadas por *Google Streetview* y mapas 2D. Este caso de hibridación nos brinda una combinación de elementos ya existentes crenado así un nuevo medio. Es pues Geoguessr un ejemplo a destacar ya que utilizando datos de Google como núcleo de su funcionamiento, fusionado con su entorno de gamificación e interfaz, obtenemos un 
 
