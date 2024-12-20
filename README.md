@@ -73,7 +73,10 @@ En los ejemplos anteriores hemos podido ver esta evolución de medios y el resul
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Web Geoguessr. **https://www.geoguessr.com/es**
+* Web Apple, imágenes del traductor. **https://www.apple.com/es/**
+* Blog Applesfera. **https://www.applesfera.com/aplicaciones-ios-1/traducir-mejor-aplicacion-traductor-para-iphone-tienes-incluida-tal-vez-sabias**
 
 
 ----
