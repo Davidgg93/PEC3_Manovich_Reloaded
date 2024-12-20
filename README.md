@@ -35,7 +35,7 @@ La app de Traducira de IOS nos ofrece una gran variedad de opciones a la hora de
 
 Si nos paramos a observar la interfaz de la aplicación nos dartemos cuenta de la hibridación que se ha producido en esta app.
 
-<img src="https://help.apple.com/assets/67104C956810595555038D9A/67104C9D2EEB5C79B1030278/es_ES/7725bdbc80b4cf52a33067ae5a699670.png" alt="Interfaz" width="50" height="25">
+<img src="https://help.apple.com/assets/67104C956810595555038D9A/67104C9D2EEB5C79B1030278/es_ES/7725bdbc80b4cf52a33067ae5a699670.png" size="50%">
 
 ----------
 
