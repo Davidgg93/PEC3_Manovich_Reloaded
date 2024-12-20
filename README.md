@@ -31,7 +31,11 @@ A continuación se plantean dos casos de hibridación de medios, el traductor de
 
 ## Caso 1: Traductor IOS
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+La app de Traducira de IOS nos ofrece una gran variedad de opciones a la hora de traducir. Como cualquier otro traductor ya existente, este nos permite realizar una traducción tradicional escribiendo un texto desde nuestra propia mano y automaticamente será generada una traducción al idioma deseado.
+
+Si nos paramos a observar la interfaz de la aplicación nos dartemos cuenta de la hibridación que se ha producido en esta app.
+
+![interfaz](https://help.apple.com/assets/67104C956810595555038D9A/67104C9D2EEB5C79B1030278/es_ES/c975afb50bb9e441729af11a07717309.png)
 
 ----------
 
