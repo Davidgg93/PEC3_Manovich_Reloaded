@@ -39,14 +39,11 @@ Si nos paramos a observar la interfaz de la aplicación nos daremos cuenta de la
 
 En primer lugar tenemos la opción de *Traducción* que nos permite traducir textos directamente de forma tradicional, seguidamente nos encontramos con la opción de *Cámara* la cual a través de la realidad aumentada nos permite traduccir en vivo cualquier texto visionado a través de la lente de nuestro teléfono y por último no encontramos con la opción *Conversación* que esta nos permite traducir al momento y en directo una conversación escuchada a través del micrófono del terminal.
 
-
 <img src="https://help.apple.com/assets/67104C956810595555038D9A/67104C9D2EEB5C79B1030278/es_ES/7725bdbc80b4cf52a33067ae5a699670.png" width="300" height="600">
 
 Ejemplo de traducción a través de la cámara:
 
-
 <img src="https://i.blogs.es/da8383/traducir-texto-iphone-camara-foto-aps-03/1366_2000.webp" width="600" height="600">
-
 
 Como se peude analizar, esta aplicación presenta una hibridación en toda regla ya que  alberga todas sus funciones integradas en un mismo entorno digital e interfaz gracias a la combinación de distintos medios para definir nuevas herramientas y nuevos formatos al mismo tiempo.
 
@@ -58,9 +55,7 @@ GeoGuessr es un juego de geografía en el que apareces en algún punto del plane
 
 A la hora de jugar, inicialmente te aparece en pantalla un lugar aleatorio del mundo en *Street view* y en un lateral el mapa del mundo en 2D de Google, cuando tengas uan idea de dodne te encuentras simplemente navegas sobre el mapa del lateral de la misma forma que lo haces cuando utilizas el *Google Maps* (ya que te encuentras en el) y seleccionas el lugar donde crees que te encuentras, es aquí dodne el juego te dará una puntuación según la proximidad al lugar de acierto.
 
-
 <img src="https://github.com/Davidgg93/PEC3_Manovich_Reloaded/blob/main/Geoguessr.jpg?raw=true">
-
 
 Como es de esperar, la hibridación en los videojuegos es mas que evidente aunque Geoguessr es un caso peculiar donde encontramos una combinación de elementos de gamificación con imagénes panóramicas proporcionadas por *Google Streetview* y mapas 2D. Este caso de hibridación nos brinda una combinación de elementos ya existentes crenado así un nuevo medio. Es pues Geoguessr un ejemplo a destacar ya que utilizando datos de Google como núcleo de su funcionamiento, fusionado con su entorno de gamificación e interfaz, obtenemos un nuevo elmento en formato de juego.
 
@@ -70,8 +65,6 @@ Como es de esperar, la hibridación en los videojuegos es mas que evidente aunqu
 
 Es más que evidente que el tiempo es el padre de la evolución y el nacer de nuevos medios. Desde la aparición del metamedio ordenador de Alan Kay era evidente el nacimiento de nuevos medios y estos tarde o temprano se convertirían en nuevos elementos a consecuencia de la mezcla o hibridación de ellos.
 En los ejemplos anteriores hemos podido ver esta evolución de medios y el resultado de la hibridación.
-
-
 
 ----------
 
