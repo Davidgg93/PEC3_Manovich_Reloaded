@@ -19,7 +19,8 @@ Según Lev Manovich, la hibridación es el resultado de la convergencia y la mez
 
 Para aclarar esta descripción que Manovich nos proporciona en su libro *El software toma el control*, Ferran Adell nos deja esta descripción:
 
-> *La hibridación es un proceso de remediación -de fusión de los medios- que va más allá que la multimedia. En la multimedia diferentes tipos de medios (texto, audio, vídeo, …) conviven de forma contigua, y se sitúan -normalmente- en un plano bidimensional: la típica página web con texto, una música de fondo y algunas imágenes, … Un esquema que aún hoy es habitual en la construcción de documentos digitales, y que sigue vigente en muchos de los dispositivos, aplicaciones y entornos actuales.* * Ferran Adell (http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
+> *La hibridación es un proceso de remediación -de fusión de los medios- que va más allá que la multimedia. En la multimedia diferentes tipos de medios (texto, audio, vídeo, …) conviven de forma contigua, y se sitúan -normalmente- en un plano bidimensional: la típica página web con texto, una música de fondo y algunas imágenes, … Un esquema que aún hoy es habitual en la construcción de documentos digitales, y que sigue vigente en muchos de los dispositivos, aplicaciones y entornos actuales.*
+> Ferran Adell (http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
 
 Ahora bien, ¿como podemos diferenciar entre la hibridación y la multimedia?
 
@@ -62,9 +63,6 @@ Como es de esperar, la hibridación en los videojuegos es mas que evidente aunqu
 ## Conclusión
 
 Es más que evidente que el tiempo es el padre de la evolución y el nacer de nuevos medios. Desde la aparición del metamedio ordenador de Alan Kay era evidente el nacimiento de nuevos medios y estos tarde o temprano se convertirían en nuevos elementos a consecuencia de la mezcla o hibridación de ellos.
-
-> Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos […] Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios. Manovich, El software toma el control.
-
 En los ejemplos anteriores hemos podido ver esta evolución de medios y el resultado de la hibridación.
 
 
