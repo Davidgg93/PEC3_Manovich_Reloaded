@@ -23,7 +23,7 @@ Para aclarar esta descripción que Manovich nos proporciona en su libro *El soft
 
 Ahora bien, ¿como podemos diferenciar entre la hibridación y la multimedia?
 
-En la multimedia los elementos conviven entre ellos, es decir, cada uno de ellos necesita su propìo recurso para ser reproducido. En la hibridación se forma una fusión de elementos compartiendo el entorno digital generando una nueva experiencia.
+En la multimedia los elementos conviven entre ellos, es decir, cada uno de ellos necesita su propio recurso para ser reproducido. En la hibridación se forma una fusión de elementos compartiendo el entorno digital generando una nueva experiencia.
 
 A continuación se plantean dos casos de hibridación de medios, el traductor de IOS y el juego Geoguessr.
 
