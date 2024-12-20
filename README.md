@@ -55,7 +55,19 @@ A la hora de jugar, inicialmente te aparece en pantalla un lugar aleatorio del m
 
 <img src="https://github.com/Davidgg93/PEC3_Manovich_Reloaded/blob/main/Geoguessr.jpg?raw=true">
 
-Como es de esperar, la hibridación en los videojuegos es mas que evidente aunque Geoguessr es un caso peculiar donde encontramos una combinación de elementos de gamificación con imagénes panóramicas proporcionadas por *Google Streetview* y mapas 2D. Este caso de hibridación nos brinda una combinación de elementos ya existentes crenado así un nuevo medio. Es pues Geoguessr un ejemplo a destacar ya que utilizando datos de Google como núcleo de su funcionamiento, fusionado con su entorno de gamificación e interfaz, obtenemos un 
+Como es de esperar, la hibridación en los videojuegos es mas que evidente aunque Geoguessr es un caso peculiar donde encontramos una combinación de elementos de gamificación con imagénes panóramicas proporcionadas por *Google Streetview* y mapas 2D. Este caso de hibridación nos brinda una combinación de elementos ya existentes crenado así un nuevo medio. Es pues Geoguessr un ejemplo a destacar ya que utilizando datos de Google como núcleo de su funcionamiento, fusionado con su entorno de gamificación e interfaz, obtenemos un nuevo elmento en formato de juego.
+
+----------
+
+## Conclusión
+
+Es más que evidente que el tiempo es el padre de la evolución y el nacer de nuevos medios. Desde la aparición del metamedio ordenador de Alan Kay era evidente el nacimiento de nuevos medios y estos tarde o temprano se convertirían en nuevos elementos a consecuencia de la mezcla o hibridación de ellos.
+
+> Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos […] Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios. Manovich, El software toma el control.
+
+En los ejemplos anteriores hemos podido ver esta evolución de medios y el resultado de la hibridación.
+
+
 
 ----------
 
