@@ -49,7 +49,7 @@ Como se peude analizar, esta aplicación presenta una hibridación en toda regla
 
 ## Caso 2: Geoguessr
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+GeoGuessr es un juego de geografía en el que apareces en algún punto del planeta en vista *street view* con la única opción de mover la vista en 360º y tu objetivo es buscar pistas y adivinar dónde te encuentras. (https://www.geoguessr.com/es)
 
 ----------
 
