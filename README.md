@@ -21,6 +21,12 @@ Para aclarar esta descripción que Manovich nos proporciona en su libro *El soft
 
 > La hibridación es un proceso de remediación -de fusión de los medios- que va más allá que la multimedia. En la multimedia diferentes tipos de medios (texto, audio, vídeo, …) conviven de forma contigua, y se sitúan -normalmente- en un plano bidimensional: la típica página web con texto, una música de fondo y algunas imágenes, … Un esquema que aún hoy es habitual en la construcción de documentos digitales, y que sigue vigente en muchos de los dispositivos, aplicaciones y entornos actuales.
 
+Ahora bien, ¿como podemos diferenciar entre la hibridación y la multimedia?
+
+En la multimedia los elementos conviven entre ellos, es decir, cada uno de ellos necesita su propìo recurso para ser reproducido. En la hibridación se forma una fusión de elementos compartiendo el entorno digital generando una nueva experiencia.
+
+A continuación se plantean dos casos de hibridación de medios, el traductor de IOS y el juego Geoguessr.
+
 ----------
 
 ## Caso 1: Traductor IOS
