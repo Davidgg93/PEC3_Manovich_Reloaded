@@ -49,7 +49,13 @@ Como se peude analizar, esta aplicación presenta una hibridación en toda regla
 
 ## Caso 2: Geoguessr
 
-GeoGuessr es un juego de geografía en el que apareces en algún punto del planeta en vista *street view* con la única opción de mover la vista en 360º y tu objetivo es buscar pistas y adivinar dónde te encuentras. (https://www.geoguessr.com/es)
+GeoGuessr es un juego de geografía en el que apareces en algún punto del planeta en vista *street view* con la única opción de mover la vista en 360º y tu objetivo es buscar pistas y adivinar dónde te encuentras. Puedes competir contra otros usuarios en rondas alternas creando una competición en la cual vas acumulando puntos en criterio a la cercanía al lugar correcto que te establece el juego. (https://www.geoguessr.com/es)
+
+A la hora de jugar, inicialmente te aparece en pantalla un lugar aleatorio del mundo en *Street view* y en un lateral el mapa del mundo en 2D de Google, cuando tengas uan idea de dodne te encuentras simplemente navegas sobre el mapa del lateral de la misma forma que lo haces cuando utilizas el *Google Maps* (ya que te encuentras en el) y seleccionas el lugar donde crees que te encuentras, es aquí dodne el juego te dará una puntuación según la proximidad al lugar de acierto.
+
+<img src="">
+
+Como es de esperar, la hibridación en los videojuegos es mas que evidente aunque Geoguessr es un caso peculiar donde encontramos una combinación de elementos de gamificación con imagénes panóramicas proporcionadas por *Google Streetview* y mapas 2D. Este caso de hibridación nos brinda una combinación de elementos ya existentes crenado así un nuevo medio. Es pues Geoguessr un ejemplo a destacar ya que utilizando datos de Google como núcleo de su funcionamiento, fusionado con su entorno de gamificación e interfaz, obtenemos un 
 
 ----------
 
