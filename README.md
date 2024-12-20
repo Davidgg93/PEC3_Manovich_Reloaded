@@ -33,9 +33,17 @@ A continuación se plantean dos casos de hibridación de medios, el traductor de
 
 La app de Traducira de IOS nos ofrece una gran variedad de opciones a la hora de traducir. Como cualquier otro traductor ya existente, este nos permite realizar una traducción tradicional escribiendo un texto desde nuestra propia mano y automaticamente será generada una traducción al idioma deseado.
 
-Si nos paramos a observar la interfaz de la aplicación nos dartemos cuenta de la hibridación que se ha producido en esta app.
+Si nos paramos a observar la interfaz de la aplicación nos daremos cuenta de la hibridación que se ha producido en esta app. En un mismo entorno interactivo nos encontramos con tres formas distintas de realizar una traducción.
 
-<img src="https://help.apple.com/assets/67104C956810595555038D9A/67104C9D2EEB5C79B1030278/es_ES/7725bdbc80b4cf52a33067ae5a699670.png" width="300" height="600"> <img src="https://help.apple.com/assets/67104C956810595555038D9A/67104C9D2EEB5C79B1030278/es_ES/c975afb50bb9e441729af11a07717309.png" width="300" height="600"><img src="https://i.blogs.es/da8383/traducir-texto-iphone-camara-foto-aps-03/1366_2000.webp" width="600" height="600">
+En primer lugar tenemos la opción de *Traducción* que nos permite traducir textos directamente de forma tradicional, seguidamente nos encontramos con la opción de *Cámara* la cual a traves de la realidad aumentada nos permite traduccir en vivo cualquier texto visionado a través de la lente de nuestro teléfono y por último no encontramos con la opción *Conversación* que esta nos permite traducir al al momento y en directo una conversación escuchada a través del micrófono del terminal.
+
+<img src="https://help.apple.com/assets/67104C956810595555038D9A/67104C9D2EEB5C79B1030278/es_ES/7725bdbc80b4cf52a33067ae5a699670.png" width="300" height="600">
+
+Ejemplo de traducción a través de la cámara:
+
+<img src="https://i.blogs.es/da8383/traducir-texto-iphone-camara-foto-aps-03/1366_2000.webp" width="600" height="600">
+
+Como se peude analizar, esta aplicación presenta una hibridación en toda regla a la hora de realizar sus funciones integradas en un mismo entorno digital grascias a la combinación de distintos medios para definir nuevas herramientas y nuevos formatos al mismo tiempo. 
 
 ----------
 
