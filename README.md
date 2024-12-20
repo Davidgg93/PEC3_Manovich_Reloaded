@@ -44,7 +44,7 @@ Ejemplo de traducción a través de la cámara:
 
 <img src="https://i.blogs.es/da8383/traducir-texto-iphone-camara-foto-aps-03/1366_2000.webp" width="600" height="600">
 
-Como se peude analizar, esta aplicación presenta una hibridación en toda regla a la hora de realizar sus funciones integradas en un mismo entorno digital grascias a la combinación de distintos medios para definir nuevas herramientas y nuevos formatos al mismo tiempo. 
+Como se peude analizar, esta aplicación presenta una hibridación en toda regla ya que  alberga todas sus funciones integradas en un mismo entorno digital e interfaz gracias a la combinación de distintos medios para definir nuevas herramientas y nuevos formatos al mismo tiempo.
 
 ----------
 
