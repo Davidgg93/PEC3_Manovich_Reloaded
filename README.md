@@ -35,7 +35,7 @@ La app de Traducira de IOS nos ofrece una gran variedad de opciones a la hora de
 
 Si nos paramos a observar la interfaz de la aplicación nos dartemos cuenta de la hibridación que se ha producido en esta app.
 
-<img src="https://help.apple.com/assets/67104C956810595555038D9A/67104C9D2EEB5C79B1030278/es_ES/7725bdbc80b4cf52a33067ae5a699670.png" width="300" height="600"> <img src="https://help.apple.com/assets/67104C956810595555038D9A/67104C9D2EEB5C79B1030278/es_ES/c975afb50bb9e441729af11a07717309.png" width="300" height="600"><img src="https://i.blogs.es/da8383/traducir-texto-iphone-camara-foto-aps-03/1366_2000.webp" width="440" height="600">
+<img src="https://help.apple.com/assets/67104C956810595555038D9A/67104C9D2EEB5C79B1030278/es_ES/7725bdbc80b4cf52a33067ae5a699670.png" width="300" height="600"> <img src="https://help.apple.com/assets/67104C956810595555038D9A/67104C9D2EEB5C79B1030278/es_ES/c975afb50bb9e441729af11a07717309.png" width="300" height="600"><img src="https://i.blogs.es/da8383/traducir-texto-iphone-camara-foto-aps-03/1366_2000.webp" width="600" height="600">
 
 ----------
 
